@@ -1,14 +1,4 @@
-
-
-<!--
-  KAREN BELTRÁN · PERFIL DE GITHUB
-  Antes de publicar, reemplaza:
-    TU-USUARIO  → tu usuario de GitHub
-    TU-REPOSITORIO-1/2/3 → los nombres de tus repositorios
-    TU_USUARIO_INSTAGRAM / TU_USUARIO_FACEBOOK → tus usuarios en cada red
-  Paleta: crema #EFE4D5 · azul noche #1B2540 · dorado #B08A4A
--->
-   <img src="banner(1).png">
+<img src="banner(1).png">
 <div align="center">
 
 <sub><i>Karen Beltrán — Estadística, Datos y Danza.</i></sub>
@@ -39,7 +29,7 @@ Soy estudiante de Estadística en la **Universidad Nacional de Colombia**, inter
 
 <br/>
 
-## Herramientas que estoy aprendiendo 
+## Herramientas que estoy aprendiendo
 
 <div align="center">
 
@@ -55,38 +45,19 @@ Soy estudiante de Estadística en la **Universidad Nacional de Colombia**, inter
 
 </div>
 
-<br/>
-
-## Proyectos destacados
-
-Proyectos académicos y personales relacionados con la estadística, el análisis de datos y la visualización.
-
-**📊 Análisis exploratorio de datos**
-Exploración, limpieza y visualización de conjuntos de datos para identificar patrones y comunicar resultados.
-*R · Quarto · ggplot2* — [Ver proyecto →](https://github.com/TU-USUARIO/TU-REPOSITORIO-1)
-
-**📈 Modelamiento estadístico y regresión**
-Aplicación de métodos estadísticos para estudiar relaciones entre variables, interpretar resultados y evaluar modelos.
-*R · Estadística · Visualización* — [Ver proyecto →](https://github.com/TU-USUARIO/TU-REPOSITORIO-2)
-
-**📉 Visualización y comunicación de datos**
-Gráficos y reportes que convierten resultados estadísticos en información comprensible.
-*R · ggplot2 · Quarto* — [Ver proyecto →](https://github.com/TU-USUARIO/TU-REPOSITORIO-3)
-
-<br/>
 
 ## Actividad en GitHub
 
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&hide_border=true&bg_color=EFE4D5&title_color=1B2540&text_color=1B2540&icon_color=B08A4A"
-  alt="Estadísticas de GitHub"
+src="https://github-readme-stats.vercel.app/api?username=kbeltranl-lgtm&show_icons=true&hide_border=true&bg_color=EFE4D5&title_color=1B2540&text_color=1B2540&icon_color=B08A4A"
+alt="Estadísticas de GitHub"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&hide_border=true&bg_color=EFE4D5&title_color=1B2540&text_color=1B2540"
-  alt="Lenguajes más utilizados"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbeltranl-lgtm&layout=compact&hide_border=true&bg_color=EFE4D5&title_color=1B2540&text_color=1B2540"
+alt="Lenguajes más utilizados"
 />
 
 </div>
@@ -110,20 +81,20 @@ Estoy abierta a aprender, compartir conocimientos y participar en proyectos rela
 📧 [kbeltranl@unal.edu.co](mailto:kbeltranl@unal.edu.co)
 
 
-<a href="https://instagram.com/TU_USUARIO_INSTAGRAM" target="_blank">
-  <img src="https://cdn.simpleicons.org/instagram/B08A4A" alt="Instagram" width="32" height="32" />
+<a href="https://instagram.com/@karen_bl" target="_blank">
+<img src="https://cdn.simpleicons.org/instagram/B08A4A" alt="Instagram" width="32" height="32" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://facebook.com/TU_USUARIO_FACEBOOK" target="_blank">
-  <img src="https://cdn.simpleicons.org/facebook/B08A4A" alt="Facebook" width="32" height="32" />
+<a href="https://facebook.com/Karen Beltrán " target="_blank">
+<img src="https://cdn.simpleicons.org/facebook/B08A4A" alt="Facebook" width="32" height="32" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/TU-USUARIO" target="_blank">
-  <img src="https://cdn.simpleicons.org/github/B08A4A" alt="GitHub" width="32" height="32" />
+<a href="https://github.com/kbeltranl-lgtm" target="_blank">
+<img src="https://cdn.simpleicons.org/github/B08A4A" alt="GitHub" width="32" height="32" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:kbeltranl@unal.edu.co">
-  <img src="https://cdn.simpleicons.org/gmail/B08A4A" alt="Correo" width="32" height="32" />
+<img src="https://cdn.simpleicons.org/gmail/B08A4A" alt="Correo" width="32" height="32" />
 </a>
 
 <br/>
